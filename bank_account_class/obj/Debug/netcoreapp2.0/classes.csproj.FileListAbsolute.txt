@@ -1,0 +1,10 @@
+/Users/michaelforde/classes/bin/Debug/netcoreapp2.0/classes.deps.json
+/Users/michaelforde/classes/bin/Debug/netcoreapp2.0/classes.runtimeconfig.json
+/Users/michaelforde/classes/bin/Debug/netcoreapp2.0/classes.runtimeconfig.dev.json
+/Users/michaelforde/classes/bin/Debug/netcoreapp2.0/classes.dll
+/Users/michaelforde/classes/bin/Debug/netcoreapp2.0/classes.pdb
+/Users/michaelforde/classes/obj/Debug/netcoreapp2.0/classes.csproj.CoreCompileInputs.cache
+/Users/michaelforde/classes/obj/Debug/netcoreapp2.0/classes.AssemblyInfoInputs.cache
+/Users/michaelforde/classes/obj/Debug/netcoreapp2.0/classes.AssemblyInfo.cs
+/Users/michaelforde/classes/obj/Debug/netcoreapp2.0/classes.dll
+/Users/michaelforde/classes/obj/Debug/netcoreapp2.0/classes.pdb
