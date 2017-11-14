@@ -1,0 +1,10 @@
+/Users/michaelforde/Documents/consoleAppTest/bin/Debug/netcoreapp2.0/consoleAppTest.deps.json
+/Users/michaelforde/Documents/consoleAppTest/bin/Debug/netcoreapp2.0/consoleAppTest.runtimeconfig.json
+/Users/michaelforde/Documents/consoleAppTest/bin/Debug/netcoreapp2.0/consoleAppTest.runtimeconfig.dev.json
+/Users/michaelforde/Documents/consoleAppTest/bin/Debug/netcoreapp2.0/consoleAppTest.dll
+/Users/michaelforde/Documents/consoleAppTest/bin/Debug/netcoreapp2.0/consoleAppTest.pdb
+/Users/michaelforde/Documents/consoleAppTest/obj/Debug/netcoreapp2.0/consoleAppTest.csproj.CoreCompileInputs.cache
+/Users/michaelforde/Documents/consoleAppTest/obj/Debug/netcoreapp2.0/consoleAppTest.AssemblyInfoInputs.cache
+/Users/michaelforde/Documents/consoleAppTest/obj/Debug/netcoreapp2.0/consoleAppTest.AssemblyInfo.cs
+/Users/michaelforde/Documents/consoleAppTest/obj/Debug/netcoreapp2.0/consoleAppTest.dll
+/Users/michaelforde/Documents/consoleAppTest/obj/Debug/netcoreapp2.0/consoleAppTest.pdb
